@@ -1,0 +1,1 @@
+Minimum app demonstrates how to integrate wallet core using SPM and xcframework

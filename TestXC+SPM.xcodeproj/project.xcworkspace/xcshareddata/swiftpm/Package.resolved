@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "WalletCore",
+        "repositoryURL": "git@github.com:hewigovens/wallet-core-spm.git",
+        "state": {
+          "branch": "master",
+          "revision": "38ff8df3f88f7df35136d6d9fc44209be1630d13",
+          "version": null
+        }
+      }
+    ]
+  },
+  "version": 1
+}
